@@ -7,7 +7,7 @@
  * using PHP only, all for free for personal and commercial.
  *
  * @author Paulo Rodriguez (xLaming)
- * @link https://github.com/xlaming/{DIR}
+ * @link https://github.com/xlaming/phml
  * @version 1.0
  */
 class PHML
