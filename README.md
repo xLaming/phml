@@ -34,12 +34,12 @@ Powerful advanced HTML creation system using PHP only.
   * PHML::comment('Hello World') 
     * **Description:** Comment in the template
     
-  * PHML::list('tag name', array(), []) 
+  * PHML::list('tag name', array(), array()) 
     * **Description:** Generates a string to be used in PHP::create()
     * **Information:** Two last args are OPTIONAL
     * **Return:** (string)
 
-  * PHML::array('tag name', array(), [])
+  * PHML::array('tag name', array(), array())
     * **Description:** Generates an array to be used in PHP::create()
     * **Information:** Two last args are OPTIONAL
     * **Return:** (array)
